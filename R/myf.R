@@ -8,5 +8,5 @@
 #' @examples
 #' myf(1:10)
 myf <- function(x){
-  x^3
+  x^2
 }
